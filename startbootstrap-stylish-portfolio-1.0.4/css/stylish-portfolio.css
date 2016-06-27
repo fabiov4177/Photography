@@ -244,6 +244,7 @@ footer {
 #box {
 background-color: rgba(0,0,0,0.4);
 color: white;
-padding: 20px 0px;
-width: auto;
+padding: 20px;
+display: inline-block;
+margin-bottom: 20px;
 }
